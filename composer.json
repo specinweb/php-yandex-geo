@@ -1,14 +1,18 @@
 {
-    "name": "yandex/geo",
+    "name": "specinweb/yandex-geo",
     "type": "library",
     "description": "PHP-library for interactions with geo-coding Yandex.Maps",
-    "keywords": ["api", "yandex", "geo", "geocode", "geocoder", "maps"],
+    "keywords": ["specinweb", "api", "yandex", "geo", "geocode", "geocoder", "maps"],
     "license": "The MIT License (MIT)",
     "authors": [
         {
             "name": "Dmitry Kuznetsov",
             "email": "kuznetsov2d@gmail.com",
             "homepage": "http://kuznetsov.io"
+        },
+        {
+            "name": "Ivan Pralnikov",
+            "email": "specinweb@gmail.com"
         }
     ],
     "require": {
