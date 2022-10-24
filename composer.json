@@ -3,7 +3,7 @@
     "type": "library",
     "description": "PHP-library for interactions with geo-coding Yandex.Maps",
     "keywords": ["specinweb", "api", "yandex", "geo", "geocode", "geocoder", "maps"],
-    "license": "The MIT License (MIT)",
+    "license": "MIT",
     "authors": [
         {
             "name": "Dmitry Kuznetsov",
